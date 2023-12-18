@@ -20,6 +20,4 @@ app.get('/',(req,res)=>{
 })
 
 
-app.listen(1001,()=>{
-    console.log("listen");
-});
+
